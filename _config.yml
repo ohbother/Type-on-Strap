@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: /jcubed
-url: https://ohbother.github.io/
+baseurl: "/jcubed"
+url: "https://ohbother.github.io/"
 title: jcubed # site's title
 description: "A website with blog posts and pages" # used by search engines
 
@@ -8,7 +8,7 @@ description: "A website with blog posts and pages" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: jcubed # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -96,5 +96,5 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag]
-theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
+#theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
