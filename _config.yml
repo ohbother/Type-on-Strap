@@ -2,21 +2,21 @@
 baseurl: "/jcubed"
 url: "https://ohbother.github.io/"
 title: jcubed # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "howdy pardner" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: jcubed # blog's title
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  # avatar: assets/img/triangle.svg
+  # favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>lol.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>hai.</p>
+  # header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample post
+title: Hi!
 tags: [Test, Lorem, Ipsum]
-excerpt_separator: <!--more-->
+excerpt\_separator: <!--more-->
 ---
 
 Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
